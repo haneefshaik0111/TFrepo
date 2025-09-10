@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydtefCPvaIc=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\MohammaS\\OneDrive - Unisys\\Desktop\\application\\learningapp\\learningapp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Data.SqlClient. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\Users\\MohammaS\\OneDrive - Unisys\\Desktop\\application\\learningapp\\learningapp.csproj",
+      "filePath": "C:\\Users\\MohammaS\\OneDrive - Unisys\\Desktop\\application\\learningapp\\learningapp.csproj",
+      "libraryId": "Microsoft.Data.SqlClient",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
